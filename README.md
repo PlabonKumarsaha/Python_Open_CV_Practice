@@ -1,4 +1,4 @@
-# openCV
+# Python open CV practice
 
 ## Contents
 * Image upload and show - https://github.com/PlabonKumarsaha/openCV/blob/master/UploadImage.py
