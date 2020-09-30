@@ -6,3 +6,4 @@
 * Open Web cam - https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/WebCamera.py
 * RGB to GRAY scale Image convertor - https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/RGB2GraySCALE.py
 * Gausian Image bluring - https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/GausianBlur.py
+* Image Reszing - https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/ResizeImage.py
