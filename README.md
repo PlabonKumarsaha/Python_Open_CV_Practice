@@ -20,3 +20,4 @@
 ### Shapes
 
 * drawing circle,rectange and line - https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/Shapes.py
+* Show Text - https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/ShowText.py
