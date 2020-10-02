@@ -19,4 +19,4 @@
 
 ### Shapes
 
-* drawing circle,rectange and line - github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/Shapes.py
+* drawing circle,rectange and line - https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/Shapes.py
