@@ -2,9 +2,13 @@
 import cv2
 
 # import video
+frameWidth = 640
+frameHeght = 480
+
 cap = cv2.VideoCapture(0)
-cap.set(3, 640)
-cap.set(4, 480)
+cap.set(3,frameWidth)
+cap.set(4,frameHeght)
+cap.set(10, 130)
 # change brigtness
 cap.set(10, 100)
 # as video is a collection of images ...The images must be included in a while loop
