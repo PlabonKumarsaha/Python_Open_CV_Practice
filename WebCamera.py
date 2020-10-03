@@ -5,12 +5,11 @@ import cv2
 frameWidth = 640
 frameHeght = 480
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 cap.set(3,frameWidth)
 cap.set(4,frameHeght)
-cap.set(10, 130)
 # change brigtness
-cap.set(10, 100)
+cap.set(10, 130)
 # as video is a collection of images ...The images must be included in a while loop
 while True:
     # success is a boolean that looks for if the upload is successful or not!
