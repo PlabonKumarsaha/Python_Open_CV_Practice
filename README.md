@@ -26,3 +26,7 @@
 * Perspespective Transfrom (cutting an image and setting it in a different portion of the frame)-https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/PrespectiveTrabsformation.py
 * image stacking - https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/StackingImage.py
 
+### Shapes - working with shapes 
+
+* pre process , idenifying shapes , calculating area , draw margin on shapes and draw a bounded box - https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/shapes.py
+
