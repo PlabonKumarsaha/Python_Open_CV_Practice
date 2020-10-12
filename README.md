@@ -34,3 +34,6 @@
 ### face detector - haarcascade
 * https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/faceDetection.py
 
+### Object tracker
+* https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/ObjectTracker(Moose).py - MOSSE and CSRT 
+
