@@ -37,3 +37,6 @@
 ### Object tracker
 * https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/ObjectTracker(Moose).py - MOSSE and CSRT 
 
+### lane detection using huff transformation
+https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/LaneDetection_HoughTransferMethod.py
+
