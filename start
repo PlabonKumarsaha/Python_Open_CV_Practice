@@ -1,2 +1,2 @@
 import cv2;
-print (cv2.__version__);
+print (cv2.__version__); # check if cv2 is successfully  imported
