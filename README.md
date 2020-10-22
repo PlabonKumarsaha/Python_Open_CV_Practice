@@ -9,7 +9,7 @@
 ### Image manipulation
 
 * RGB to GRAY scale Image convertor - https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/RGB2GraySCALE.py
-* Gausian Image bluring - https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/GausianBlur.py
+* Gausian Image bluring/Median blur(reduces noice) - https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/GausianBlur.py
 * make image darker - increasing gama values : https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/MakeImageDarker.txt
 
 
