@@ -1,0 +1,2 @@
+gamma = 1/10 # lower value will make the image lighter and higher value then 1 will make the image darker
+result = np.power(img,gamma)
