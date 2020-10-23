@@ -12,7 +12,8 @@
 * Gausian Image bluring/Median blur(reduces noice) - https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/GausianBlur.py
 * make image darker - increasing gama values : https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/MakeImageDarker.txt
 
-### Morphological operator - https://docs.opencv.org/master/d9/d61/tutorial_py_morphological_ops.html
+### Morphological operator - https://docs.opencv.org/master/d9/d61/tutorial_py_morphological_ops.html 
+&&  #### various variant of Morphological operator - https://homepages.inf.ed.ac.uk/rbf/HIPR2/morops.htm 
 
 
 ### image sizing
