@@ -34,6 +34,9 @@
 
 * pre process , idenifying shapes , calculating area , draw margin on shapes and draw a bounded box - https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/shapes.py
 
+### Histogram - showing color ranges in graph
+* https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/Histogram.py
+
 
 ### face detector - haarcascade
 * https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/faceDetection.py
