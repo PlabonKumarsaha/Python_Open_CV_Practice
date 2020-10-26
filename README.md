@@ -31,7 +31,6 @@
 * image stacking - https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/StackingImage.py
 
 ### Shapes - working with shapes 
-
 * pre process , idenifying shapes , calculating area , draw margin on shapes and draw a bounded box - https://github.com/PlabonKumarsaha/Python_Open_CV_Practice/blob/master/shapes.py
 
 ### Histogram - showing color ranges in graph
